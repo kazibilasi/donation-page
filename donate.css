@@ -1,0 +1,225 @@
+*{
+       margin-right: 20px;
+       margin-left: 20px;
+       
+       font-family: 'Lustria', serif;
+font-family: 'Open Sans', sans-serif;
+}
+header{
+       text-align: center;
+       /* margin-top: 400px; */
+       /* margin-bottom: 25px; */
+       position: relative;
+       background-image: url(images/donation2.jpg);
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+       min-height: 100vh;
+       background-blend-mode: multiply;
+       background-color: grey;
+}
+.head-line{
+       /* margin-top: 400px; */
+       position: absolute;
+       top: 36%;
+       left: 18%;
+       font-weight: 700;
+       font-size: 65px;
+       color: #ffffff;
+}
+.paragraph{
+       /* margin-top: 40px; */
+       position: absolute;
+       top: 50%;
+       left: 14%;
+       color: #ffffff;
+       
+}
+.button{
+       top:59%;
+       padding: 6px 8px;
+       position: absolute;
+       border-radius: 5px;
+       font-size: 20px;
+       color: white;
+       background-color: rgb(255, 102, 0);
+       border-color: white;
+       left: 45%;
+}
+
+/* main section */
+.head-line2{
+       text-align: center;
+       margin-top:5% ;
+
+}
+.paragraph2{
+       text-align: center;
+       margin-top: 1%;
+}
+.tk{
+       display: flex;
+       margin-top: 1%;
+       gap: 15px;
+       margin-left: 30%;
+}
+.money{
+       padding: 44px 25px;
+  border-radius: 5px;
+  background: #fafafa;
+  
+  color: #7c7878;
+  /* width: 135px; */
+  background: #fafafa;
+  
+}
+.money1{
+       padding: 44px 25px;
+       border-radius: 5px;
+       background-color: pink;
+       border: 2px solid rgb(192, 119, 144);
+}
+/* donate today */
+.other-amount{
+       text-align: center;
+       margin-top: 2%;
+}
+.other-amount hr{
+       width: 750px;
+       height: 0px;
+       align-items: center;
+       
+       margin-left: 28%;
+       margin-top: 5px;
+}
+.paragraph3{
+       text-align: center;
+       margin-top: 5px;
+}
+.button2{
+       text-align: center;
+       margin-top: 6px;
+       border-radius: 5px;
+       font-size: 20px;
+       color: white;
+       background-color: rgb(255, 102, 0);
+       border-color: white;
+       padding: 6px 8px;
+}
+/* our donate plane */
+.our-donate{
+       text-align: center;
+       margin-top: 30px;
+}
+.head-line3{
+       margin-top: 7%;
+}
+.paragraph4{
+       margin-top: 1%;
+}
+.help-section{
+       display: flex;
+       /* margin-top: 5px; */
+       padding: 65px 25px;
+       
+}
+.help1{
+       text-align: center;
+       padding: 64px 24px;
+       margin-left: 24px;
+       background-color: #d6c6c6;
+       border-radius: 10px;
+       
+}
+.help2{
+       text-align: center;
+       padding: 64px 24px;
+       margin-left: 24px;
+       background-color: pink;
+       border-radius: 10px;
+}
+.help3{
+       text-align: center;
+       padding: 64px 24px;
+       margin-left: 24px;
+       background-color: antiquewhite;
+       border-radius: 10px;
+}
+/* .helps-img{
+       margin-top: 10px;
+} */
+.helps-h{
+       margin-top: 10px;
+}
+.helps-p{
+       margin-top: 10px;
+}
+/* their-lives */
+.their-lives{
+       display: flex;
+       margin-top: 100px;
+  
+  justify-content: center;
+  align-items: center;
+  gap: 65px;
+}
+.their-lives2{
+       margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+.donate-img1{
+       width: 100%;
+}
+.donate-img2{
+       width: 100%;
+}
+.button3{
+       border-radius: 5px;
+       font-size: 20px;
+       color: white;
+       background-color: rgb(255, 102, 0);
+       border-color: white;
+       padding: 6px 8px;
+}
+/* get my update */
+.update{
+       text-align: center;
+       margin-top: 130px;
+}
+.form{
+       margin-top: 130px;
+       display: flex;
+       align-items: center;
+       margin-left: 35%;
+       margin-right: 50%;
+       background-color: antiquewhite;
+       padding: 80px 300px;
+      
+}
+.email{
+       /* padding: 16px 20px;
+width: 200px;
+/* margin-right: 80%; */
+/* margin-right:10%;
+border: none;
+text-align:center ;
+position: relative; */ 
+
+
+}
+.button4{
+       border-radius: 5px;
+       font-size: 20px;
+       color: white;
+       background-color: rgb(255, 102, 0);
+       border-color: white;
+       padding: 11px 16px;
+        /* margin-right: 80%; */
+       margin-left: 35% ; 
+       text-align: center;
+       
+     
+}
